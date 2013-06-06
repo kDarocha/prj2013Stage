@@ -1,0 +1,39 @@
+name = "Chamfer"
+description = "Cham-pher, a highly customizable theme"
+engine = "phptemplate"
+core = "6.x"
+
+;block regions
+regions[superfish]       = "Superfish menu"
+regions[content_top]     = "Content top"
+regions[content]         = "Content"
+regions[content_bottom]  = "Content bottom"
+regions[left]            = "Sidebar left"
+regions[right]           = "Sidebar right"
+regions[footer]          = "Footer"
+
+;styles
+stylesheets[all][] = "superfish/css/superfish.css"
+stylesheets[all][] = "css/style.css"
+stylesheets[all][] = "css/sticky_footer.css"
+
+;scripts
+scripts[] = "superfish/js/superfish.js"
+scripts[] = "superfish/js/hoverIntent.js"
+scripts[] = "js/aria-roles.js"
+
+;features
+features[] = "logo"
+features[] = "name"
+features[] = "slogan"
+features[] = "node_user_picture"
+features[] = "comment_user_picture"
+features[] = "favicon"
+features[] = "primary_links"
+
+; Information added by drupal.org packaging script on 2012-06-21
+version = "6.x-1.0-beta4"
+core = "6.x"
+project = "chamfer"
+datestamp = "1340295378"
+

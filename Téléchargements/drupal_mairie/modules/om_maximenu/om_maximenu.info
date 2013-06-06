@@ -1,0 +1,11 @@
+name = "OM Maximenu"
+package = OM
+description = "OM Maximenu, add any block inside your menus"
+core = "6.x"
+
+; Information added by drupal.org packaging script on 2012-11-07
+version = "6.x-1.44"
+core = "6.x"
+project = "om_maximenu"
+datestamp = "1352267218"
+

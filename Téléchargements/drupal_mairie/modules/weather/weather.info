@@ -1,0 +1,10 @@
+name = Weather
+description = Displays METAR weather data
+core = 6.x
+
+; Information added by drupal.org packaging script on 2012-05-16
+version = "6.x-5.20"
+core = "6.x"
+project = "weather"
+datestamp = "1337200596"
+
